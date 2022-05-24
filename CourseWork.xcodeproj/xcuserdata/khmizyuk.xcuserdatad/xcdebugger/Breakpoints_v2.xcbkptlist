@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6DF80135-B5DE-4E66-855B-BA799893F6B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56583E00-14F9-4136-BFEF-B588052CBED7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork/ApplicationInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ApplicationInfoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - 11e470cb490a14d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.cityLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - bdcb7ac45760b12d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.cityLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - 6e4a172a7c44b3dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.cityLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - e12a595808656228"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.cityLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - b493229ed03bc138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ApplicationInfoViewController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "56583E00-14F9-4136-BFEF-B588052CBED7 - 5b616ef135ed1b23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ApplicationInfoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ApplicationInfoViewController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khmizyuk/Education/4%20semester/Mobile/CourseWork/CourseWork/ApplicationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
